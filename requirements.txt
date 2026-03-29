@@ -1,6 +1,4 @@
 pandas
 plotly
-streamlit==1.28.2
+streamlit
 requests
-altair==4.2.2
-pillow==9.5.0
